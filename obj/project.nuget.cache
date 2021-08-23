@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4sY0OTczOeW01BCQ0ZeSGWWfuM9taygXN3UgtyEWLNF3jpNJb6iadZHyzIofMCGS3xxiBEisyvUq9gZJe0LLoQ==",
+  "success": true,
+  "projectFilePath": "F:\\Home\\Project\\ASP.net\\Admin-panel\\api-lancebot\\api-lancebot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitalii\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
